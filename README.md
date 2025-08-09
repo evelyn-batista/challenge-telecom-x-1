@@ -1,6 +1,6 @@
-# 🌟 Análise de Evasão de Clientes (Churn) na TelecomX 📊
-
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
+# 🌟 Análise de Evasão de Clientes (Churn) na TelecomX 📊
 
 Análise exploratória de dados para identificar os principais fatores de evasão de clientes (churn) em uma empresa de telecomunicações e propor estratégias de retenção baseadas em evidências.
 
